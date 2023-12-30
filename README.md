@@ -1,2 +1,2 @@
 # Peng
-Hi, my name is Peng Ren.
+Hi, my name is
